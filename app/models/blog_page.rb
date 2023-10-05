@@ -1,0 +1,3 @@
+class BlogPage < ApplicationRecord
+   
+end
